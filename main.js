@@ -1,4 +1,4 @@
-// Pizza Order by Yusuf
+// Pizza Order by Name
 
 // Add an event Listener to the button to run the placeOrder function
 document.getElementById("btn").addEventListener("click", placeOrder);
